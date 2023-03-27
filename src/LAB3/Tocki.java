@@ -15,9 +15,7 @@ class MinDistance {
         float min=99999;
         int suma=0;
 
-//        if(i<= points.length){
-//
-//        }
+
 
         for(int i=0; i< points.length; i++){
             //da odi od prvo so naredno

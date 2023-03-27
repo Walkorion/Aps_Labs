@@ -2,7 +2,7 @@ package LAB2.treta;
 
 import java.util.Scanner;
 
-class Card {
+/*class Card {
     private int id;
     private int power;
     private int numAttacks;
@@ -299,4 +299,4 @@ class SLL<E> {
         System.out.println(secondFriendCards.toString());
     }
 
-}
+}*/
